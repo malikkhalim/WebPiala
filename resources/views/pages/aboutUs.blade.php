@@ -7,6 +7,7 @@
         @show
     </header>
 
+    
     <section class="min-h-screen bg-gray-800 flex items-center">
         <div class="container mx-auto px-6 py-12 lg:py-24 max-w-7xl">
             <div class="flex flex-col lg:flex-row items-center justify-between">
